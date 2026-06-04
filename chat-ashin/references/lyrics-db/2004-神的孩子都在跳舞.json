@@ -1,0 +1,30 @@
+{
+  "album": "神的孩子都在跳舞",
+  "year": 2004,
+  "release_date": "2004-09-10",
+  "label": "滚石唱片",
+  "songs": [
+    {
+      "title": "倔强",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "arranger": "五月天",
+      "key": "A Major",
+      "bpm": 132,
+      "lyrics_excerpt": "当我和世界不一样 那就让我不一样",
+      "segments": [
+        {"type": "verse", "summary": "建立个人与世界的对立感", "anchor_line": "当我和世界不一样"},
+        {"type": "pre-chorus", "summary": "情绪积累，准备宣告"},
+        {"type": "chorus", "summary": "宣告倔强的立场", "anchor_line": "那就让我不一样"},
+        {"type": "bridge", "summary": "升 key 推向高潮"}
+      ],
+      "mood": {
+        "energy": 9,
+        "valence": 7,
+        "themes": ["dream-chasing", "rebellion", "growth"],
+        "anchor_emotion": "被世界误解时的自我确认"
+      },
+      "tags": ["升key", "励志", "演唱会大合唱"]
+    }
+  ]
+}

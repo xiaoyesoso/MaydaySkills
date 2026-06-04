@@ -1,0 +1,1 @@
+严格基于 SSD 需求文档 mayday-skills-sdd.md 进行 agent skills 的研发

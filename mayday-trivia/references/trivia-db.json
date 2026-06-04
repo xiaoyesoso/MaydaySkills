@@ -1,0 +1,90 @@
+{
+  "$schema_note": "Trivia question bank. Sample entries only — production target is 500+ questions across all domains/difficulties. Format defined inline below.",
+  "format": {
+    "id": "stable unique id",
+    "domain": "members | albums | concerts | mvs | awards | collaborations",
+    "difficulty": "easy | medium | hard | nightmare",
+    "question": "Question text (Mandarin)",
+    "answer": "Canonical answer string",
+    "accepted_variants": ["alternate accepted answer strings"],
+    "source": "Reference for fact-check (file path or external citation)",
+    "background": "1-3 sentence trivia context shown after answering"
+  },
+  "questions": [
+    {
+      "id": "Q001",
+      "domain": "members",
+      "difficulty": "easy",
+      "question": "五月天的主唱阿信本名是什么？",
+      "answer": "陈信宏",
+      "accepted_variants": ["陳信宏"],
+      "source": "references/knowledge-base/band-members.md",
+      "background": "阿信负责主唱、键盘与几乎全部歌词创作，原本主修建筑系。"
+    },
+    {
+      "id": "Q002",
+      "domain": "members",
+      "difficulty": "easy",
+      "question": "五月天里最年长的成员是？",
+      "answer": "冠佑",
+      "accepted_variants": ["刘谚明", "刘冠佑"],
+      "source": "references/knowledge-base/band-members.md",
+      "background": "鼓手冠佑生于 1973 年，比其他四位成员都年长。"
+    },
+    {
+      "id": "Q003",
+      "domain": "albums",
+      "difficulty": "easy",
+      "question": "《倔强》收录在哪一张专辑？",
+      "answer": "神的孩子都在跳舞",
+      "source": "references/knowledge-base/album-history.md",
+      "background": "2004 年发行的概念专辑《神的孩子都在跳舞》，《倔强》成为五月天最具代表性的演唱会大合唱曲。"
+    },
+    {
+      "id": "Q004",
+      "domain": "albums",
+      "difficulty": "medium",
+      "question": "五月天发行的第一张专辑是？",
+      "answer": "第一张创作专辑",
+      "source": "references/knowledge-base/album-history.md",
+      "background": "1999 年发行，奠定了乐队的初期声音。"
+    },
+    {
+      "id": "Q005",
+      "domain": "concerts",
+      "difficulty": "medium",
+      "question": "「人生无限公司」巡演大约始于哪一年？",
+      "answer": "2017",
+      "source": "references/knowledge-base/concert-archives.md",
+      "background": "「人生无限公司」是五月天 2017 年开启的世界巡演，并于 2019 年推出电影版。"
+    },
+    {
+      "id": "Q006",
+      "domain": "awards",
+      "difficulty": "hard",
+      "question": "《突然好想你》拿下了金曲奖哪一个奖项？",
+      "answer": "最佳年度歌曲",
+      "source": "references/knowledge-base/timeline.md",
+      "background": "2009 年金曲奖《突然好想你》获最佳年度歌曲，是五月天慢歌的代表作之一。"
+    },
+    {
+      "id": "Q007",
+      "domain": "mvs",
+      "difficulty": "hard",
+      "question": "「太空人玩偶降落」是哪一首歌演唱会的经典视觉？",
+      "answer": "顽固",
+      "source": "references/knowledge-base/concert-archives.md",
+      "background": "「顽固」是《自传》专辑的代表曲，MV 与演唱会视觉皆以太空人为意象。"
+    },
+    {
+      "id": "Q008",
+      "domain": "members",
+      "difficulty": "nightmare",
+      "question": "怪兽的生日是哪一天（月份与日期）？",
+      "answer": "11-28",
+      "accepted_variants": ["11月28日", "1976-11-28"],
+      "source": "references/knowledge-base/band-members.md",
+      "background": "团长怪兽（温尚翊）生于 1976 年 11 月 28 日。"
+    }
+  ]
+}

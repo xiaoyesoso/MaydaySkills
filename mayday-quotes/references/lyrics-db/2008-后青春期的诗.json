@@ -1,0 +1,47 @@
+{
+  "album": "后青春期的诗",
+  "year": 2008,
+  "release_date": "2008-10-28",
+  "label": "相信音乐",
+  "songs": [
+    {
+      "title": "突然好想你",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 70,
+      "lyrics_excerpt": "突然好想你 你会在哪里",
+      "segments": [
+        {"type": "verse", "summary": "日常场景中的突然想念"},
+        {"type": "chorus", "summary": "对失去之人的直接呼唤", "anchor_line": "突然好想你"},
+        {"type": "bridge", "summary": "回忆与现实交错"}
+      ],
+      "mood": {
+        "energy": 4,
+        "valence": 2,
+        "themes": ["loss", "nostalgia", "love"],
+        "anchor_emotion": "失去后才意识到的强烈想念"
+      },
+      "tags": ["慢歌", "失恋", "怀念"]
+    },
+    {
+      "title": "后青春期的诗",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "G Major",
+      "bpm": 90,
+      "lyrics_excerpt": "把无聊的日子 折一只飞机",
+      "segments": [
+        {"type": "verse", "summary": "用童趣意象描述成年后的怅惘"},
+        {"type": "chorus", "summary": "对青春末班车的告别"}
+      ],
+      "mood": {
+        "energy": 5,
+        "valence": 4,
+        "themes": ["growth", "nostalgia"],
+        "anchor_emotion": "走出青春之后的若有所失"
+      },
+      "tags": ["概念专辑同名曲", "成长"]
+    }
+  ]
+}
