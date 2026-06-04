@@ -18,6 +18,9 @@ compatibility: No external dependencies.
 ## Overview
 A comprehensive Q&A engine covering Mayday's career from 1997 onward. Answers
 factual questions about the band and optionally runs interactive quizzes.
+Question bank ships with **700+ entries** (`references/trivia-db.json`),
+generated from `references/lyrics-db/` (9 albums / 120 songs) and the curated
+`knowledge-base/` files.
 
 ## Knowledge Domains
 1. **Band members** — Birthdays, instruments, side projects, nicknames.

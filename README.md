@@ -67,7 +67,13 @@ cat concert-prep/SKILL.md
 | Phase 1 | P0 三技能：ashin-lyrics / mayday-mood / mayday-quotes | ✅ 脚手架完成 |
 | Phase 2 | P1 三技能：mayday-trivia / chat-ashin / concert-prep | ✅ 脚手架完成 |
 | Phase 3 | P2 两技能：mayday-chords / mayday-data | ✅ 脚手架完成（含示例脚本） |
-| Phase 4 | 数据扩充（歌词 9 张专辑全量、500+ 题库、真实 API 接入） | ⏳ 待补 |
+| Phase 4 | 数据扩充（歌词 9 张专辑全量/120 首、700+ 题库、Spotify + YouTube API） | ✅ 完成 |
+
+### Phase 4 交付明细
+
+- **歌词元数据**：9 张录音室专辑 / 120 首歌曲，统一 schema，仅存 1–2 句引用片段 + 调性 / BPM / 三轴情绪 / 锚句 / 标签。主源在 [`mayday-mood/references/lyrics-db/`](./mayday-mood/references/lyrics-db/)，通过 [`scripts/sync-lyrics-db.sh`](./scripts/sync-lyrics-db.sh) 复制到 `ashin-lyrics` / `chat-ashin` / `mayday-quotes` / `mayday-trivia`。
+- **题库**：[`mayday-trivia/references/trivia-db.json`](./mayday-trivia/references/trivia-db.json) 共 **762 题**，覆盖 members / albums / concerts / mvs / awards / collaborations 六大领域，四档难度。由 [`scripts/gen-trivia.py`](./scripts/gen-trivia.py) 基于歌词库 + 知识库一键再生成。
+- **API 接入**：[`mayday-data/scripts/data-fetcher.py`](./mayday-data/scripts/data-fetcher.py) 新增 `spotify-popularity` 与 `youtube-views` 两条子命令，凭据走环境变量 `SPOTIFY_CLIENT_ID` / `SPOTIFY_CLIENT_SECRET` / `YOUTUBE_API_KEY`；无凭据时自动 fallback 到 mock 数据，结果统一带 `_meta.source` 标识。响应缓存于 `~/.cache/mayday-data/`，TTL 6 小时。
 
 ## 质量与版权
 

@@ -1,8 +1,9 @@
 {
   "album": "后青春期的诗",
   "year": 2008,
-  "release_date": "2008-10-28",
+  "release_date": "2008-10-23",
   "label": "相信音乐",
+  "english_title": "Poetry of the Day After",
   "songs": [
     {
       "title": "突然好想你",
@@ -16,13 +17,113 @@
         {"type": "chorus", "summary": "对失去之人的直接呼唤", "anchor_line": "突然好想你"},
         {"type": "bridge", "summary": "回忆与现实交错"}
       ],
-      "mood": {
-        "energy": 4,
-        "valence": 2,
-        "themes": ["loss", "nostalgia", "love"],
-        "anchor_emotion": "失去后才意识到的强烈想念"
-      },
-      "tags": ["慢歌", "失恋", "怀念"]
+      "mood": {"energy": 4, "valence": 2, "themes": ["loss", "nostalgia", "love"], "anchor_emotion": "失去后才意识到的强烈想念"},
+      "tags": ["慢歌", "失恋", "怀念", "金曲奖年度歌曲"]
+    },
+    {
+      "title": "生存以上 生活以下",
+      "lyricist": "阿信",
+      "composer": "玛莎",
+      "key": "G Major",
+      "bpm": 92,
+      "lyrics_excerpt": "我们活着 在生存以上 生活以下",
+      "segments": [{"type": "chorus", "summary": "对都市生活悬浮状态的概括"}],
+      "mood": {"energy": 5, "valence": 4, "themes": ["growth"], "anchor_emotion": "悬浮在生存与生活之间的焦虑"},
+      "tags": ["都市观察", "金句"]
+    },
+    {
+      "title": "你不是真正的快乐",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 76,
+      "lyrics_excerpt": "你不是真正的快乐 你的笑只是你穿的保护色",
+      "segments": [
+        {"type": "verse", "summary": "看穿对方伪装的笑容"},
+        {"type": "chorus", "summary": "戳破假面的善意提醒", "anchor_line": "你不是真正的快乐"}
+      ],
+      "mood": {"energy": 4, "valence": 3, "themes": ["growth", "loss"], "anchor_emotion": "看穿假笑后的心疼"},
+      "tags": ["代表作", "金句", "半音上行"]
+    },
+    {
+      "title": "爆肝",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 150,
+      "lyrics_excerpt": "爆肝 爆肝",
+      "segments": [{"type": "chorus", "summary": "对过劳生活的狂欢式宣告"}],
+      "mood": {"energy": 9, "valence": 5, "themes": ["growth", "rebellion"], "anchor_emotion": "用幽默自嘲面对过劳"},
+      "tags": ["快歌", "都市"]
+    },
+    {
+      "title": "噢买尬",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 140,
+      "lyrics_excerpt": "噢买尬 噢买尬",
+      "segments": [{"type": "chorus", "summary": "对世界荒谬的感叹"}],
+      "mood": {"energy": 8, "valence": 6, "themes": ["celebration", "rebellion"], "anchor_emotion": "对世道荒谬的轻松哀叹"},
+      "tags": ["快歌"]
+    },
+    {
+      "title": "出头天",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 145,
+      "lyrics_excerpt": "出头天 出头天",
+      "segments": [{"type": "chorus", "summary": "庶民拼搏的鼓舞"}],
+      "mood": {"energy": 9, "valence": 7, "themes": ["dream-chasing", "rebellion"], "anchor_emotion": "翻身的渴望"},
+      "tags": ["闽南语", "演唱会"]
+    },
+    {
+      "title": "我心中尚未崩坏的地方",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "A Major",
+      "bpm": 88,
+      "lyrics_excerpt": "我心中尚未崩坏的地方",
+      "segments": [{"type": "chorus", "summary": "守护内心未塌的角落"}],
+      "mood": {"energy": 6, "valence": 6, "themes": ["growth", "dream-chasing"], "anchor_emotion": "保留心中的最后净土"},
+      "tags": ["金句", "演唱会大合唱"]
+    },
+    {
+      "title": "春天的呐喊",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "D Major",
+      "bpm": 145,
+      "lyrics_excerpt": "春天的呐喊",
+      "segments": [{"type": "chorus", "summary": "向青春最后一次喊话"}],
+      "mood": {"energy": 9, "valence": 8, "themes": ["celebration", "rebellion"], "anchor_emotion": "在青春边缘大声呐喊"},
+      "tags": ["音乐节"]
+    },
+    {
+      "title": "夜访吸血鬼",
+      "lyricist": "阿信",
+      "composer": "冠佑",
+      "key": "B Minor",
+      "bpm": 100,
+      "lyrics_excerpt": "夜访吸血鬼",
+      "segments": [{"type": "chorus", "summary": "暗夜里的暧昧探询"}],
+      "mood": {"energy": 6, "valence": 5, "themes": ["love"], "anchor_emotion": "禁忌爱情的暧昧氛围"},
+      "tags": ["叙事"]
+    },
+    {
+      "title": "如烟",
+      "lyricist": "阿信",
+      "composer": "石头",
+      "key": "G Major",
+      "bpm": 72,
+      "lyrics_excerpt": "我坐在床前 望着窗外回忆满天",
+      "segments": [
+        {"type": "verse", "summary": "回望一生的画面感"},
+        {"type": "chorus", "summary": "如烟般消散的人生", "anchor_line": "原来过了一生"}
+      ],
+      "mood": {"energy": 3, "valence": 4, "themes": ["nostalgia", "growth"], "anchor_emotion": "一生回望的轻轻怅惘"},
+      "tags": ["史诗", "代表作"]
     },
     {
       "title": "后青春期的诗",
@@ -35,13 +136,19 @@
         {"type": "verse", "summary": "用童趣意象描述成年后的怅惘"},
         {"type": "chorus", "summary": "对青春末班车的告别"}
       ],
-      "mood": {
-        "energy": 5,
-        "valence": 4,
-        "themes": ["growth", "nostalgia"],
-        "anchor_emotion": "走出青春之后的若有所失"
-      },
+      "mood": {"energy": 5, "valence": 4, "themes": ["growth", "nostalgia"], "anchor_emotion": "走出青春之后的若有所失"},
       "tags": ["概念专辑同名曲", "成长"]
+    },
+    {
+      "title": "笑忘歌",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "C Major",
+      "bpm": 110,
+      "lyrics_excerpt": "笑忘人间的悲哀",
+      "segments": [{"type": "chorus", "summary": "用笑去和解过去"}],
+      "mood": {"energy": 6, "valence": 7, "themes": ["growth", "friendship"], "anchor_emotion": "笑过之后好好告别"},
+      "tags": ["毕业季"]
     }
   ]
 }

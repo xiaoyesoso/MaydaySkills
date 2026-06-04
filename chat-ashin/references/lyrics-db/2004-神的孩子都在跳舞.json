@@ -1,9 +1,21 @@
 {
   "album": "神的孩子都在跳舞",
   "year": 2004,
-  "release_date": "2004-09-10",
+  "release_date": "2004-11-05",
   "label": "滚石唱片",
+  "english_title": "God's Children All Dance",
   "songs": [
+    {
+      "title": "孙悟空",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "A Major",
+      "bpm": 145,
+      "lyrics_excerpt": "我是齐天大圣孙悟空",
+      "segments": [{"type": "chorus", "summary": "化身齐天大圣的高呼"}],
+      "mood": {"energy": 9, "valence": 7, "themes": ["rebellion", "dream-chasing"], "anchor_emotion": "用神话角色喊出自我"},
+      "tags": ["开场曲", "高能"]
+    },
     {
       "title": "倔强",
       "lyricist": "阿信",
@@ -18,13 +30,131 @@
         {"type": "chorus", "summary": "宣告倔强的立场", "anchor_line": "那就让我不一样"},
         {"type": "bridge", "summary": "升 key 推向高潮"}
       ],
-      "mood": {
-        "energy": 9,
-        "valence": 7,
-        "themes": ["dream-chasing", "rebellion", "growth"],
-        "anchor_emotion": "被世界误解时的自我确认"
-      },
-      "tags": ["升key", "励志", "演唱会大合唱"]
+      "mood": {"energy": 9, "valence": 7, "themes": ["dream-chasing", "rebellion", "growth"], "anchor_emotion": "被世界误解时的自我确认"},
+      "tags": ["升key", "励志", "演唱会大合唱", "代表作"]
+    },
+    {
+      "title": "垃圾车",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 130,
+      "lyrics_excerpt": "垃圾车 垃圾车",
+      "segments": [{"type": "chorus", "summary": "用垃圾车铃声唤起共同生活记忆"}],
+      "mood": {"energy": 7, "valence": 7, "themes": ["nostalgia", "celebration"], "anchor_emotion": "市井日常的小欢乐"},
+      "tags": ["闽南语", "市井"]
+    },
+    {
+      "title": "小护士",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 96,
+      "lyrics_excerpt": "我的小护士",
+      "segments": [{"type": "chorus", "summary": "对生活中陪伴者的告白"}],
+      "mood": {"energy": 5, "valence": 7, "themes": ["love"], "anchor_emotion": "对默默照顾自己的人致意"},
+      "tags": ["可爱风"]
+    },
+    {
+      "title": "让我照顾你",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "D Major",
+      "bpm": 80,
+      "lyrics_excerpt": "让我照顾你",
+      "segments": [{"type": "chorus", "summary": "角色对调的温柔承诺"}],
+      "mood": {"energy": 4, "valence": 7, "themes": ["love"], "anchor_emotion": "想成为对方的依靠"},
+      "tags": ["抒情"]
+    },
+    {
+      "title": "约翰蓝侬",
+      "lyricist": "玛莎/阿信",
+      "composer": "怪兽",
+      "key": "G Major",
+      "bpm": 130,
+      "lyrics_excerpt": "约翰蓝侬 唱给我听",
+      "segments": [{"type": "chorus", "summary": "向偶像致敬"}],
+      "mood": {"energy": 7, "valence": 7, "themes": ["dream-chasing", "nostalgia"], "anchor_emotion": "向音乐前辈遥遥致意"},
+      "tags": ["致敬", "披头四"]
+    },
+    {
+      "title": "回来吧",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 75,
+      "lyrics_excerpt": "回来吧 我等你",
+      "segments": [{"type": "chorus", "summary": "对远去之人的呼唤"}],
+      "mood": {"energy": 3, "valence": 4, "themes": ["love", "loss"], "anchor_emotion": "等待对方回头的耐心"},
+      "tags": ["抒情慢歌"]
+    },
+    {
+      "title": "错错错",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "F Major",
+      "bpm": 110,
+      "lyrics_excerpt": "错错错 都是我的错",
+      "segments": [{"type": "chorus", "summary": "对自己过失的连番认领"}],
+      "mood": {"energy": 6, "valence": 4, "themes": ["love", "loss"], "anchor_emotion": "把错全揽在自己身上的悔意"},
+      "tags": ["流行摇滚"]
+    },
+    {
+      "title": "晚安地球人",
+      "lyricist": "阿信",
+      "composer": "石头",
+      "key": "G Major",
+      "bpm": 78,
+      "lyrics_excerpt": "晚安 地球人",
+      "segments": [{"type": "outro", "summary": "在群星下道晚安"}],
+      "mood": {"energy": 2, "valence": 6, "themes": ["growth"], "anchor_emotion": "向喧嚣的一天温柔告别"},
+      "tags": ["睡前曲"]
+    },
+    {
+      "title": "超人",
+      "lyricist": "阿信",
+      "composer": "冠佑/阿信",
+      "key": "A Major",
+      "bpm": 145,
+      "lyrics_excerpt": "我不是超人",
+      "segments": [{"type": "chorus", "summary": "承认平凡的反英雄宣告"}],
+      "mood": {"energy": 8, "valence": 6, "themes": ["growth", "rebellion"], "anchor_emotion": "不是超人也要继续战斗"},
+      "tags": ["快歌"]
+    },
+    {
+      "title": "神的孩子都在跳舞",
+      "lyricist": "阿信",
+      "composer": "石头",
+      "key": "E Major",
+      "bpm": 120,
+      "lyrics_excerpt": "神的孩子都在跳舞",
+      "segments": [
+        {"type": "chorus", "summary": "万神同舞式的群体狂欢", "anchor_line": "神的孩子都在跳舞"}
+      ],
+      "mood": {"energy": 8, "valence": 8, "themes": ["celebration", "dream-chasing"], "anchor_emotion": "众生齐舞的庆典感"},
+      "tags": ["同名曲", "演唱会"]
+    },
+    {
+      "title": "圣诞夜惊魂",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Minor",
+      "bpm": 130,
+      "lyrics_excerpt": "圣诞夜惊魂",
+      "segments": [{"type": "chorus", "summary": "圣诞主题的趣味怪诞"}],
+      "mood": {"energy": 7, "valence": 6, "themes": ["celebration"], "anchor_emotion": "节日里的幽默与怪诞"},
+      "tags": ["节日"]
+    },
+    {
+      "title": "垃圾车 (朋友版)",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 130,
+      "lyrics_excerpt": "朋友们 上车了",
+      "segments": [{"type": "chorus", "summary": "为朋友合唱的版本"}],
+      "mood": {"energy": 8, "valence": 8, "themes": ["friendship", "celebration"], "anchor_emotion": "和朋友一起的欢乐合唱"},
+      "tags": ["朋友合唱版"]
     }
   ]
 }

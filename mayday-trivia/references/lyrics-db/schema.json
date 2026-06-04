@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lyrics-db/schema.json",
+  "title": "Mayday Lyrics Album Schema",
+  "description": "Structured schema for a single Mayday album lyric file. Lyrics fields are intentionally short excerpts only — citation use, no full lyrics stored.",
+  "type": "object",
+  "required": ["album", "year", "songs"],
+  "properties": {
+    "album": { "type": "string" },
+    "year": { "type": "integer", "minimum": 1997, "maximum": 2100 },
+    "release_date": { "type": "string", "format": "date" },
+    "label": { "type": "string" },
+    "songs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "lyricist", "composer"],
+        "properties": {
+          "title": { "type": "string" },
+          "lyricist": { "type": "string" },
+          "composer": { "type": "string" },
+          "arranger": { "type": "string" },
+          "key": { "type": "string" },
+          "bpm": { "type": "integer" },
+          "duration_seconds": { "type": "integer" },
+          "lyrics_excerpt": {
+            "type": "string",
+            "description": "A short, citation-style excerpt (one or two lines) — never the full lyric."
+          },
+          "segments": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["type"],
+              "properties": {
+                "type": { "type": "string", "enum": ["intro", "verse", "pre-chorus", "chorus", "bridge", "outro", "interlude", "rap"] },
+                "summary": { "type": "string" },
+                "anchor_line": { "type": "string" }
+              }
+            }
+          },
+          "mood": {
+            "type": "object",
+            "properties": {
+              "energy": { "type": "integer", "minimum": 0, "maximum": 10 },
+              "valence": { "type": "integer", "minimum": 0, "maximum": 10 },
+              "themes": {
+                "type": "array",
+                "items": { "type": "string", "enum": ["love", "friendship", "dream-chasing", "loss", "nostalgia", "rebellion", "growth", "celebration"] }
+              },
+              "anchor_emotion": { "type": "string" }
+            }
+          },
+          "tags": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}

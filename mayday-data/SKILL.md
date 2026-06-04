@@ -11,8 +11,11 @@ metadata:
   author: mayday-skills
   version: "1.0"
   category: data-visualization
-compatibility: Requires Python 3.12+, internet access, and the matplotlib +
-  requests Python packages.
+compatibility: |
+  Requires Python 3.12+ standard library only (no third-party deps for
+  data fetching). Charting layer assumes matplotlib in the consumer
+  environment. Set SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / YOUTUBE_API_KEY
+  to enable live API calls; otherwise the fetcher returns stub data.
 ---
 
 # Mayday Music Data Dashboard
@@ -57,11 +60,25 @@ turning years of music into readable charts and insights.
 ## Script Usage
 
 ```bash
-python scripts/data-fetcher.py album-trend                  # album metrics
-python scripts/data-fetcher.py concert-map                   # geo data
-python scripts/data-fetcher.py song-trend <song> [<song>...] # time series
+# stub-mode (no credentials needed)
+python scripts/data-fetcher.py album-trend
+python scripts/data-fetcher.py concert-map
+python scripts/data-fetcher.py song-trend <song> [<song>...]
 python scripts/data-fetcher.py era-compare <s1> <e1> <s2> <e2>
+
+# LIVE-mode (requires env vars)
+export SPOTIFY_CLIENT_ID=xxx
+export SPOTIFY_CLIENT_SECRET=xxx
+python scripts/data-fetcher.py spotify-popularity   # Mayday top tracks (TW)
+
+export YOUTUBE_API_KEY=xxx
+python scripts/data-fetcher.py youtube-views 突然好想你
 ```
+
+All live calls cache responses in `~/.cache/mayday-data/` for 6 hours.
+When credentials are absent, the same commands return deterministic stub
+JSON so charts still render. The result always carries `_meta.source`
+(values: `spotify` / `spotify-cache` / `youtube` / `youtube-cache` / `stub`).
 
 See `scripts/data-fetcher.py` — modular CLI with cached JSON output.
 

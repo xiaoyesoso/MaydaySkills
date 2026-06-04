@@ -1,0 +1,147 @@
+{
+  "album": "人生海海",
+  "year": 2001,
+  "release_date": "2001-07-06",
+  "label": "滚石唱片",
+  "english_title": "People Life, Ocean Wild",
+  "songs": [
+    {
+      "title": "一颗苹果",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 145,
+      "lyrics_excerpt": "拿走我的一切 留下一颗苹果",
+      "segments": [{"type": "chorus", "summary": "用苹果的隐喻问候命运"}],
+      "mood": {"energy": 7, "valence": 6, "themes": ["growth", "rebellion"], "anchor_emotion": "面对世界仍然可以咬下一口"},
+      "tags": ["快歌", "开场曲"]
+    },
+    {
+      "title": "能不能不要说",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 84,
+      "lyrics_excerpt": "能不能不要说 我们已经走散",
+      "segments": [{"type": "chorus", "summary": "央求别说出分开二字"}],
+      "mood": {"energy": 4, "valence": 3, "themes": ["love", "loss"], "anchor_emotion": "不舍承认结束的请求"},
+      "tags": ["抒情"]
+    },
+    {
+      "title": "好不好",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "F Major",
+      "bpm": 92,
+      "lyrics_excerpt": "好不好 我会更好",
+      "segments": [{"type": "chorus", "summary": "对自己与对方的双重和解"}],
+      "mood": {"energy": 5, "valence": 5, "themes": ["growth", "love"], "anchor_emotion": "彼此放过的温柔"},
+      "tags": ["闽南语", "抒情"]
+    },
+    {
+      "title": "相信",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 78,
+      "lyrics_excerpt": "相信 是奇迹的开始",
+      "segments": [
+        {"type": "verse", "summary": "对未知未来的笃定"},
+        {"type": "chorus", "summary": "持续相信的宣告"}
+      ],
+      "mood": {"energy": 5, "valence": 7, "themes": ["dream-chasing", "growth"], "anchor_emotion": "在不确定中持续相信"},
+      "tags": ["抒情励志"]
+    },
+    {
+      "title": "OK啦!",
+      "lyricist": "阿信",
+      "composer": "五月天",
+      "key": "A Major",
+      "bpm": 160,
+      "lyrics_excerpt": "OK 啦",
+      "segments": [{"type": "chorus", "summary": "面对一切的洒脱"}],
+      "mood": {"energy": 9, "valence": 7, "themes": ["celebration", "rebellion"], "anchor_emotion": "活得不爽也要先 OK 一下"},
+      "tags": ["闽南语", "快歌"]
+    },
+    {
+      "title": "借问众神明",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 110,
+      "lyrics_excerpt": "借问众神明",
+      "segments": [{"type": "chorus", "summary": "对民代与时局的轻讥"}],
+      "mood": {"energy": 6, "valence": 5, "themes": ["rebellion"], "anchor_emotion": "对现实的善意嘲讽"},
+      "tags": ["闽南语", "社会观察"]
+    },
+    {
+      "title": "永远的永远",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 90,
+      "lyrics_excerpt": "永远的永远 是多远",
+      "segments": [{"type": "chorus", "summary": "对家与都市的双向眷恋"}],
+      "mood": {"energy": 5, "valence": 4, "themes": ["nostalgia", "growth"], "anchor_emotion": "都市游子对家的远眺"},
+      "tags": ["闽南语"]
+    },
+    {
+      "title": "彩虹",
+      "lyricist": "阿信",
+      "composer": "阿信/梁伯君",
+      "key": "C Major",
+      "bpm": 76,
+      "lyrics_excerpt": "你是我的眼 看见彩虹",
+      "segments": [{"type": "chorus", "summary": "对彩虹般爱情的歌咏"}],
+      "mood": {"energy": 3, "valence": 8, "themes": ["love"], "anchor_emotion": "雨后被照亮的爱"},
+      "tags": ["抒情", "影视相关"]
+    },
+    {
+      "title": "啾啾啾",
+      "lyricist": "五月天",
+      "composer": "五月天",
+      "key": "E Major",
+      "bpm": 150,
+      "lyrics_excerpt": "啾啾啾",
+      "segments": [{"type": "chorus", "summary": "拟声式狂欢"}],
+      "mood": {"energy": 9, "valence": 7, "themes": ["celebration"], "anchor_emotion": "无意义的快乐就是快乐"},
+      "tags": ["闽南语", "玩味"]
+    },
+    {
+      "title": "纯真",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 78,
+      "lyrics_excerpt": "纯真 已被时间偷走",
+      "segments": [{"type": "chorus", "summary": "对失去纯真的追悼"}],
+      "mood": {"energy": 4, "valence": 4, "themes": ["nostalgia", "growth"], "anchor_emotion": "成年后再认得纯真"},
+      "tags": ["影视主题"]
+    },
+    {
+      "title": "候鸟",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 84,
+      "lyrics_excerpt": "我是候鸟 永远在找一个家",
+      "segments": [{"type": "chorus", "summary": "对家的反复追寻"}],
+      "mood": {"energy": 4, "valence": 5, "themes": ["nostalgia", "growth"], "anchor_emotion": "永远在迁徙却想要安顿"},
+      "tags": ["feat. Glay", "电影主题"]
+    },
+    {
+      "title": "人生海海",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 90,
+      "lyrics_excerpt": "人生海海 甘需要拢了解",
+      "segments": [
+        {"type": "verse", "summary": "对人生宽阔的描述"},
+        {"type": "chorus", "summary": "潮起潮落仍然向前", "anchor_line": "人生海海"}
+      ],
+      "mood": {"energy": 6, "valence": 7, "themes": ["growth", "dream-chasing"], "anchor_emotion": "人生宽广就不必什么都懂"},
+      "tags": ["同名曲", "代表作", "演唱会"]
+    }
+  ]
+}
