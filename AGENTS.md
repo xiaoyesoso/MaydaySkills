@@ -1,1 +1,1 @@
-严格基于 SSD 需求文档 mayday-skills-sdd.md 进行 agent skills 的研发
+严格基于 SDD 需求文档 [`docs/sdd/`](./docs/sdd/) 进行 agent skills 的研发。所有 Skill SDD 见 [`docs/sdd/skills/`](./docs/sdd/skills/)。
