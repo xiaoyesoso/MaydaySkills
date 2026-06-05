@@ -1,0 +1,196 @@
+{
+  "album": "第二人生",
+  "year": 2011,
+  "release_date": "2011-12-16",
+  "label": "相信音乐",
+  "english_title": "Second Round",
+  "editions": ["末日版 No Where", "明日版 Now Here"],
+  "songs": [
+    {
+      "title": "2012",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Minor",
+      "bpm": 120,
+      "lyrics_excerpt": "2012 末日的预言",
+      "segments": [{"type": "intro", "summary": "末日版破题"}],
+      "mood": {"energy": 7, "valence": 4, "themes": ["growth"], "anchor_emotion": "对世界末日预言的回应"},
+      "tags": ["概念曲", "末日版开篇"]
+    },
+    {
+      "title": "仓颉",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 130,
+      "lyrics_excerpt": "仓颉造字 写不出我的眼泪",
+      "segments": [{"type": "chorus", "summary": "用造字者的孤独写情诗"}],
+      "mood": {"energy": 7, "valence": 4, "themes": ["loss", "love"], "anchor_emotion": "找不到适合的字形容你"},
+      "tags": ["叙事", "金句"]
+    },
+    {
+      "title": "洗衣机",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 96,
+      "lyrics_excerpt": "洗衣机 转走我的悲伤",
+      "segments": [{"type": "chorus", "summary": "用洗衣机比喻情感清理"}],
+      "mood": {"energy": 5, "valence": 6, "themes": ["growth", "loss"], "anchor_emotion": "把哀伤甩干的日常仪式"},
+      "tags": ["生活意象"]
+    },
+    {
+      "title": "歪腰",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 140,
+      "lyrics_excerpt": "歪腰 也是一种力量",
+      "segments": [{"type": "chorus", "summary": "用歪腰自嘲式励志"}],
+      "mood": {"energy": 8, "valence": 7, "themes": ["growth", "rebellion"], "anchor_emotion": "用幽默对抗压力"},
+      "tags": ["快歌"]
+    },
+    {
+      "title": "干杯",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "arranger": "五月天/于京延",
+      "key": "C Major",
+      "bpm": 78,
+      "lyrics_excerpt": "会不会 有一天 时间真的能倒退",
+      "segments": [
+        {"type": "verse", "summary": "翻开旧照片的回忆"},
+        {"type": "chorus", "summary": "为青春举杯", "anchor_line": "敬你 我的朋友"}
+      ],
+      "mood": {"energy": 5, "valence": 6, "themes": ["nostalgia", "friendship"], "anchor_emotion": "为走散的友谊轻轻碰杯"},
+      "tags": ["代表作", "聚散主题"]
+    },
+    {
+      "title": "我不愿让你一个人",
+      "lyricist": "阿信",
+      "composer": "冠佑/阿信",
+      "key": "G Major",
+      "bpm": 72,
+      "lyrics_excerpt": "我不愿让你一个人 承受这世界的残忍",
+      "segments": [
+        {"type": "verse", "summary": "对爱人苦难的不忍"},
+        {"type": "chorus", "summary": "陪伴到底的承诺", "anchor_line": "我不愿让你一个人"}
+      ],
+      "mood": {"energy": 4, "valence": 6, "themes": ["love"], "anchor_emotion": "对挚爱的不忍与守护"},
+      "tags": ["代表情歌", "电视剧主题曲"]
+    },
+    {
+      "title": "星空",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 76,
+      "lyrics_excerpt": "我们都需要勇气 去相信会在一起",
+      "segments": [{"type": "chorus", "summary": "对孤独童年的拥抱"}],
+      "mood": {"energy": 4, "valence": 6, "themes": ["growth", "friendship"], "anchor_emotion": "孤独被星空点亮"},
+      "tags": ["电影主题曲", "几米合作"]
+    },
+    {
+      "title": "三个傻瓜",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 130,
+      "lyrics_excerpt": "三个傻瓜 一路狂奔",
+      "segments": [{"type": "chorus", "summary": "致敬同名印度电影"}],
+      "mood": {"energy": 8, "valence": 8, "themes": ["friendship", "dream-chasing"], "anchor_emotion": "和傻朋友一起追梦"},
+      "tags": ["致敬", "校园"]
+    },
+    {
+      "title": "末日",
+      "lyricist": "阿信",
+      "composer": null,
+      "key": null,
+      "bpm": null,
+      "lyrics_excerpt": "(末日版间奏)",
+      "segments": [{"type": "interlude", "summary": "末日版的短间奏"}],
+      "mood": {"energy": 2, "valence": 3, "themes": ["loss"], "anchor_emotion": "末日逼近的瞬间静默"},
+      "tags": ["instrumental", "末日版"]
+    },
+    {
+      "title": "OAOA (丢掉名字性别)",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 150,
+      "lyrics_excerpt": "OAOA",
+      "segments": [{"type": "chorus", "summary": "把世界归零的呐喊"}],
+      "mood": {"energy": 9, "valence": 7, "themes": ["rebellion", "celebration"], "anchor_emotion": "把标签都丢掉的解放"},
+      "tags": ["演唱会", "末日版"]
+    },
+    {
+      "title": "第二人生",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 82,
+      "lyrics_excerpt": "重新选择 我的第二人生",
+      "segments": [{"type": "chorus", "summary": "对生命的二度选择"}],
+      "mood": {"energy": 5, "valence": 7, "themes": ["growth", "dream-chasing"], "anchor_emotion": "在终结之后的新生意志"},
+      "tags": ["同名曲"]
+    },
+    {
+      "title": "诺亚方舟",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 120,
+      "lyrics_excerpt": "诺亚方舟 还能带走多少美好",
+      "segments": [
+        {"type": "verse", "summary": "面对末日的清单选择"},
+        {"type": "chorus", "summary": "万人合唱式的史诗副歌"}
+      ],
+      "mood": {"energy": 8, "valence": 6, "themes": ["growth", "celebration"], "anchor_emotion": "在末日之前盘点最爱"},
+      "tags": ["首发主打", "万人合唱"]
+    },
+    {
+      "title": "有些事现在不做 一辈子都不会做了",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 92,
+      "lyrics_excerpt": "有些事现在不做 一辈子都不会做了",
+      "segments": [{"type": "chorus", "summary": "对当下行动的督促"}],
+      "mood": {"energy": 6, "valence": 7, "themes": ["dream-chasing", "growth"], "anchor_emotion": "对延宕症的当面摇醒"},
+      "tags": ["金句", "明日版开篇"]
+    },
+    {
+      "title": "明日",
+      "lyricist": null,
+      "composer": null,
+      "key": null,
+      "bpm": null,
+      "lyrics_excerpt": "(明日版间奏)",
+      "segments": [{"type": "interlude", "summary": "明日版的短间奏"}],
+      "mood": {"energy": 2, "valence": 7, "themes": ["growth"], "anchor_emotion": "新一天的悄悄推开"},
+      "tags": ["instrumental", "明日版"]
+    },
+    {
+      "title": "OAOA (现在就是永远)",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 150,
+      "lyrics_excerpt": "现在就是永远",
+      "segments": [{"type": "chorus", "summary": "明日版重新填词的乐观对照"}],
+      "mood": {"energy": 9, "valence": 9, "themes": ["celebration", "growth"], "anchor_emotion": "把当下当作永恒"},
+      "tags": ["演唱会", "明日版"]
+    },
+    {
+      "title": "T1213121",
+      "lyricist": "五月天",
+      "composer": "五月天",
+      "key": "G Major",
+      "bpm": 100,
+      "lyrics_excerpt": "T1 21 31 21",
+      "segments": [{"type": "outro", "summary": "两版共有的隐藏温柔结尾"}],
+      "mood": {"energy": 4, "valence": 7, "themes": ["friendship", "love"], "anchor_emotion": "把秘密埋进音符的彩蛋"},
+      "tags": ["隐藏曲", "彩蛋"]
+    }
+  ]
+}

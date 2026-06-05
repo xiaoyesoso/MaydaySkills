@@ -1,0 +1,72 @@
+{
+  "templates": [
+    {
+      "id": "breakup-healing",
+      "name": "失恋治愈电台",
+      "name_en": "Breakup Healing Radio",
+      "default_duration": 30,
+      "supported_durations": [30, 60],
+      "dj_style": "warm",
+      "mood_arc": [
+        {"segment": "opening", "target_E": 3, "target_V": 2},
+        {"segment": "acknowledge", "target_E": 3, "target_V": 3},
+        {"segment": "middle", "target_E": 4, "target_V": 4},
+        {"segment": "turning", "target_E": 5, "target_V": 5},
+        {"segment": "closing", "target_E": 5, "target_V": 6}
+      ],
+      "suggested_opener": "今晚，我们不说加油，只说——没关系的。",
+      "suggested_closer": "明天出门前，记得对自己笑一下。哪怕很勉强。"
+    },
+    {
+      "id": "commute-motivation",
+      "name": "通勤励志早班",
+      "name_en": "Commute Motivation",
+      "default_duration": 30,
+      "supported_durations": [30, 45],
+      "dj_style": "playful",
+      "mood_arc": [
+        {"segment": "opening", "target_E": 5, "target_V": 5},
+        {"segment": "warmup", "target_E": 6, "target_V": 6},
+        {"segment": "peak", "target_E": 8, "target_V": 7},
+        {"segment": "cooldown", "target_E": 6, "target_V": 6},
+        {"segment": "closing", "target_E": 5, "target_V": 7}
+      ],
+      "suggested_opener": "早安！还在地铁上？来，给耳朵打个鸡血。",
+      "suggested_closer": "到了吧？冲。"
+    },
+    {
+      "id": "late-night-comfort",
+      "name": "深夜疗愈台",
+      "name_en": "Late Night Comfort",
+      "default_duration": 60,
+      "supported_durations": [60, 90],
+      "dj_style": "nostalgic",
+      "mood_arc": [
+        {"segment": "opening", "target_E": 4, "target_V": 4},
+        {"segment": "descent", "target_E": 3, "target_V": 3},
+        {"segment": "bottom", "target_E": 2, "target_V": 4},
+        {"segment": "rise", "target_E": 4, "target_V": 6},
+        {"segment": "closing", "target_E": 4, "target_V": 7}
+      ],
+      "suggested_opener": "又睡不着？没差，我也还在。",
+      "suggested_closer": "晚安。明天的事，明天再说。"
+    },
+    {
+      "id": "concert-countdown",
+      "name": "演唱会倒计时",
+      "name_en": "Concert Countdown",
+      "default_duration": 60,
+      "supported_durations": [60, 90],
+      "dj_style": "philosophical",
+      "mood_arc": [
+        {"segment": "opening", "target_E": 5, "target_V": 6},
+        {"segment": "buildup", "target_E": 7, "target_V": 7},
+        {"segment": "explosive", "target_E": 9, "target_V": 8},
+        {"segment": "explosive2", "target_E": 9, "target_V": 9},
+        {"segment": "closing", "target_E": 7, "target_V": 8}
+      ],
+      "suggested_opener": "距离开唱还有几个小时。你准备好了吗？",
+      "suggested_closer": "灯亮之后，我们都还是自己。但至少今晚，我们是一起的。"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "album": "时光机",
+  "year": 2003,
+  "release_date": "2003-11-11",
+  "label": "滚石唱片",
+  "english_title": "Time Machine",
+  "songs": [
+    {
+      "title": "轻功",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 120,
+      "lyrics_excerpt": "练就一身轻功 飞到梦的尽头",
+      "segments": [{"type": "chorus", "summary": "把追梦比作练轻功"}],
+      "mood": {"energy": 7, "valence": 7, "themes": ["dream-chasing", "growth"], "anchor_emotion": "向理想飞跃的轻盈"},
+      "tags": ["英式摇滚", "开场曲"]
+    },
+    {
+      "title": "恒星的恒心",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 72,
+      "lyrics_excerpt": "亿万年不坏的太阳 守护我爱的人",
+      "segments": [{"type": "chorus", "summary": "用恒星比喻爱意的恒久"}],
+      "mood": {"energy": 4, "valence": 7, "themes": ["love", "dream-chasing"], "anchor_emotion": "如恒星般稳定的守护"},
+      "tags": ["英式抒情", "情歌"]
+    },
+    {
+      "title": "雌雄同体",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Minor",
+      "bpm": 128,
+      "lyrics_excerpt": "雌雄同体 谁说我是谁",
+      "segments": [{"type": "chorus", "summary": "对性别身份的迷幻发问"}],
+      "mood": {"energy": 8, "valence": 5, "themes": ["rebellion"], "anchor_emotion": "对定义自我的反叛"},
+      "tags": ["迷幻", "西塔琴"]
+    },
+    {
+      "title": "阿姆斯壮",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 170,
+      "lyrics_excerpt": "I am strong",
+      "segments": [{"type": "chorus", "summary": "运动会式的庞克呐喊"}],
+      "mood": {"energy": 10, "valence": 8, "themes": ["dream-chasing", "celebration"], "anchor_emotion": "宣告自己很强壮"},
+      "tags": ["庞克", "运动会主题曲"]
+    },
+    {
+      "title": "而我知道",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 76,
+      "lyrics_excerpt": "而我知道 我不能去打扰",
+      "segments": [{"type": "chorus", "summary": "默默退场的成全"}],
+      "mood": {"energy": 3, "valence": 4, "themes": ["love", "loss"], "anchor_emotion": "知道是终结仍然温柔"},
+      "tags": ["民谣吉他", "白话口语"]
+    },
+    {
+      "title": "赌神",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "F# Minor",
+      "bpm": 110,
+      "lyrics_excerpt": "一念之差 决定你一生传奇或一身烂泥",
+      "segments": [{"type": "chorus", "summary": "用赌神隐喻人生抉择"}],
+      "mood": {"energy": 7, "valence": 5, "themes": ["growth", "rebellion"], "anchor_emotion": "命运在一念之间"},
+      "tags": ["电影主题曲", "金句"]
+    },
+    {
+      "title": "别惹我",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 155,
+      "lyrics_excerpt": "别惹我 别惹我",
+      "segments": [{"type": "chorus", "summary": "草根摇滚式的愤怒发泄"}],
+      "mood": {"energy": 9, "valence": 5, "themes": ["rebellion"], "anchor_emotion": "压抑后的爆发"},
+      "tags": ["big band", "高能"]
+    },
+    {
+      "title": "九号球",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "G Major",
+      "bpm": 96,
+      "lyrics_excerpt": "九号球 滚到角落",
+      "segments": [{"type": "chorus", "summary": "学生时代的弹子房回忆"}],
+      "mood": {"energy": 6, "valence": 6, "themes": ["nostalgia", "friendship"], "anchor_emotion": "少年时代的目标与失神"},
+      "tags": ["复古", "怀旧"]
+    },
+    {
+      "title": "武装",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Minor",
+      "bpm": 130,
+      "lyrics_excerpt": "武装我自己 面对这世界",
+      "segments": [{"type": "chorus", "summary": "弦乐与电气科幻的对话"}],
+      "mood": {"energy": 8, "valence": 5, "themes": ["growth", "rebellion"], "anchor_emotion": "少年卡夫卡式的呐喊"},
+      "tags": ["电气", "弦乐"]
+    },
+    {
+      "title": "时光机",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 78,
+      "lyrics_excerpt": "我想我可以紧紧拥抱着你 像是十年前一样",
+      "segments": [{"type": "chorus", "summary": "向过去说嘿的钢琴抒情"}],
+      "mood": {"energy": 3, "valence": 5, "themes": ["nostalgia", "love"], "anchor_emotion": "把对过去的舍不得装进时光机"},
+      "tags": ["同名曲", "钢琴", "金句"]
+    },
+    {
+      "title": "我们 (时时刻刻)",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 92,
+      "lyrics_excerpt": "时时刻刻 我们都在彼此身上",
+      "segments": [{"type": "chorus", "summary": "对乐团情谊的歌咏"}],
+      "mood": {"energy": 5, "valence": 7, "themes": ["friendship", "growth"], "anchor_emotion": "团员之间相互写下的存在感"},
+      "tags": ["乐团情谊"]
+    },
+    {
+      "title": "在这一秒",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 140,
+      "lyrics_excerpt": "在这一秒 让世界为你停留",
+      "segments": [{"type": "chorus", "summary": "短促快歌的及时宣告"}],
+      "mood": {"energy": 8, "valence": 7, "themes": ["dream-chasing", "celebration"], "anchor_emotion": "把当下用力放大"},
+      "tags": ["快歌", "短篇"]
+    },
+    {
+      "title": "生命有一种绝对",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 88,
+      "lyrics_excerpt": "生命有一种绝对",
+      "segments": [{"type": "chorus", "summary": "用绝对二字定义信念"}],
+      "mood": {"energy": 6, "valence": 7, "themes": ["dream-chasing", "growth"], "anchor_emotion": "不容动摇的信念"},
+      "tags": ["复出演唱会曲"]
+    },
+    {
+      "title": "王子面",
+      "lyricist": "阿信",
+      "composer": "怪兽/孙燕姿",
+      "arranger": "五月天",
+      "key": "C Major",
+      "bpm": 90,
+      "lyrics_excerpt": "王子面 王子面",
+      "segments": [{"type": "chorus", "summary": "童年零食式的甜蜜对唱"}],
+      "mood": {"energy": 6, "valence": 8, "themes": ["nostalgia", "celebration"], "anchor_emotion": "童年甜蜜被重新打开"},
+      "tags": ["合唱", "feat. 孙燕姿"]
+    },
+    {
+      "title": "小时候",
+      "lyricist": "张雨生",
+      "composer": "张雨生",
+      "key": "G Major",
+      "bpm": 70,
+      "lyrics_excerpt": "小时候 总是被想起来",
+      "segments": [{"type": "chorus", "summary": "翻唱致敬"}],
+      "mood": {"energy": 3, "valence": 5, "themes": ["nostalgia"], "anchor_emotion": "对童年与已故偶像的双重缅怀"},
+      "tags": ["翻唱", "致敬张雨生"]
+    }
+  ]
+}
