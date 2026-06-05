@@ -1,0 +1,152 @@
+{
+  "album": "为爱而生",
+  "year": 2006,
+  "release_date": "2006-12-29",
+  "label": "相信音乐",
+  "english_title": "Born to Love",
+  "songs": [
+    {
+      "title": "前传",
+      "lyricist": null,
+      "composer": "钟兴民",
+      "key": "C Major",
+      "bpm": 70,
+      "lyrics_excerpt": "(instrumental intro)",
+      "segments": [{"type": "intro", "summary": "为整张专辑铺陈的器乐前奏"}],
+      "mood": {"energy": 2, "valence": 6, "themes": ["growth"], "anchor_emotion": "缓缓推开为爱而生的大门"},
+      "tags": ["instrumental"]
+    },
+    {
+      "title": "为爱而生",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 125,
+      "lyrics_excerpt": "我来到这个世界 这个人生 为你而生存",
+      "segments": [{"type": "chorus", "summary": "宣告爱的永恒力量"}],
+      "mood": {"energy": 8, "valence": 7, "themes": ["love", "dream-chasing"], "anchor_emotion": "为爱来到世界的笃定"},
+      "tags": ["同名曲", "首发主打"]
+    },
+    {
+      "title": "天使",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "F Major",
+      "bpm": 76,
+      "lyrics_excerpt": "我有一双隐形翅膀 守护着你",
+      "segments": [{"type": "chorus", "summary": "为爱守护的抒情高潮"}],
+      "mood": {"energy": 4, "valence": 7, "themes": ["love"], "anchor_emotion": "甘做对方天使的纯粹"},
+      "tags": ["弦乐", "代表情歌"]
+    },
+    {
+      "title": "我又初恋了",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "G Major",
+      "bpm": 130,
+      "lyrics_excerpt": "我又初恋了",
+      "segments": [{"type": "chorus", "summary": "重新心动的轻快宣告"}],
+      "mood": {"energy": 7, "valence": 8, "themes": ["love", "celebration"], "anchor_emotion": "成年人也能再次心动"},
+      "tags": ["英伦摇滚"]
+    },
+    {
+      "title": "香水",
+      "lyricist": "阿信",
+      "composer": "冠佑/阿信",
+      "key": "D Major",
+      "bpm": 88,
+      "lyrics_excerpt": "你的香水 留在我衣领",
+      "segments": [{"type": "chorus", "summary": "用气味唤起回忆"}],
+      "mood": {"energy": 5, "valence": 5, "themes": ["love", "loss"], "anchor_emotion": "味道触发的强烈想念"},
+      "tags": ["抒情"]
+    },
+    {
+      "title": "摩托车日记",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "D Minor",
+      "bpm": 120,
+      "lyrics_excerpt": "我骑着我的摩托车 看见整个南美洲",
+      "segments": [{"type": "chorus", "summary": "致敬切·格瓦拉的革命叙事"}],
+      "mood": {"energy": 7, "valence": 6, "themes": ["dream-chasing", "rebellion"], "anchor_emotion": "壮游与革命交织的画面感"},
+      "tags": ["叙事", "电吉他"]
+    },
+    {
+      "title": "最重要的小事",
+      "lyricist": "阿信",
+      "composer": "玛莎",
+      "key": "C Major",
+      "bpm": 78,
+      "lyrics_excerpt": "最重要的小事 是与你的每一天",
+      "segments": [{"type": "chorus", "summary": "用小事说最大的情感"}],
+      "mood": {"energy": 4, "valence": 8, "themes": ["love"], "anchor_emotion": "在日常细节里看见爱"},
+      "tags": ["抒情摇滚", "代表情歌"]
+    },
+    {
+      "title": "快乐很伟大",
+      "lyricist": "阿信",
+      "composer": "石头/阿信",
+      "key": "D Major",
+      "bpm": 140,
+      "lyrics_excerpt": "快乐很伟大",
+      "segments": [{"type": "chorus", "summary": "对快乐本身的礼赞"}],
+      "mood": {"energy": 8, "valence": 9, "themes": ["celebration"], "anchor_emotion": "把快乐当成正经事"},
+      "tags": ["快歌", "致敬欢乐颂"]
+    },
+    {
+      "title": "忘词",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 76,
+      "lyrics_excerpt": "我忘词 在最重要的时刻",
+      "segments": [{"type": "chorus", "summary": "面对告白时的卡壳"}],
+      "mood": {"energy": 4, "valence": 5, "themes": ["love"], "anchor_emotion": "想说时却说不出口的窘迫"},
+      "tags": ["抒情"]
+    },
+    {
+      "title": "宠上天",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 110,
+      "lyrics_excerpt": "宠上天 把你宠上天",
+      "segments": [{"type": "chorus", "summary": "朋友间的革命情感"}],
+      "mood": {"energy": 7, "valence": 7, "themes": ["friendship", "love"], "anchor_emotion": "把对方宠成最重要的存在"},
+      "tags": ["朋友情谊"]
+    },
+    {
+      "title": "米老鼠",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "A Minor",
+      "bpm": 80,
+      "lyrics_excerpt": "米老鼠 在游乐园中孤独",
+      "segments": [{"type": "chorus", "summary": "扮演快乐角色背后的孤独"}],
+      "mood": {"energy": 4, "valence": 3, "themes": ["loss", "growth"], "anchor_emotion": "扮演快乐角色的内在孤独"},
+      "tags": ["忧伤"]
+    },
+    {
+      "title": "一千个世纪",
+      "lyricist": "阿信",
+      "composer": "石头",
+      "key": "C Major",
+      "bpm": 78,
+      "lyrics_excerpt": "一千个世纪 我也愿意等你",
+      "segments": [{"type": "chorus", "summary": "穿越时间的爱意"}],
+      "mood": {"energy": 4, "valence": 7, "themes": ["love"], "anchor_emotion": "愿用无限时间等待"},
+      "tags": ["抒情"]
+    },
+    {
+      "title": "胎音",
+      "lyricist": null,
+      "composer": "石头",
+      "key": "F Major",
+      "bpm": 60,
+      "lyrics_excerpt": "(instrumental outro)",
+      "segments": [{"type": "outro", "summary": "新生命的胎音作为收尾"}],
+      "mood": {"energy": 1, "valence": 7, "themes": ["love", "growth"], "anchor_emotion": "对新生命的温柔注视"},
+      "tags": ["instrumental"]
+    }
+  ]
+}

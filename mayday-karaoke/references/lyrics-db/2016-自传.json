@@ -1,0 +1,187 @@
+{
+  "album": "自传",
+  "year": 2016,
+  "release_date": "2016-07-21",
+  "label": "相信音乐",
+  "english_title": "History of Tomorrow",
+  "songs": [
+    {
+      "title": "如果我们不曾相遇",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 88,
+      "lyrics_excerpt": "如果我们不曾相遇 我会是在哪里",
+      "segments": [
+        {"type": "verse", "summary": "对相遇这件事的假设式回望"},
+        {"type": "chorus", "summary": "感谢与遗憾交织"}
+      ],
+      "mood": {"energy": 4, "valence": 6, "themes": ["love", "nostalgia"], "anchor_emotion": "因相遇而完整的感恩"},
+      "tags": ["开场曲", "代表作"]
+    },
+    {
+      "title": "成名在望",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 80,
+      "lyrics_excerpt": "成名在望 谁说人不能怀着梦死去",
+      "segments": [
+        {"type": "verse", "summary": "学生时代到成名的心路"},
+        {"type": "chorus", "summary": "面对梦想的最后赌注"},
+        {"type": "bridge", "summary": "复杂曲式的层层推进"}
+      ],
+      "mood": {"energy": 7, "valence": 6, "themes": ["dream-chasing", "growth"], "anchor_emotion": "向梦想交付一切的孤注一掷"},
+      "tags": ["金曲奖最佳作词", "代表作"]
+    },
+    {
+      "title": "好好 (想把你写成一首歌)",
+      "lyricist": "阿信",
+      "composer": "冠佑/阿信",
+      "key": "C Major",
+      "bpm": 72,
+      "lyrics_excerpt": "想把你写成一首歌 想养一只猫",
+      "segments": [{"type": "chorus", "summary": "用日常小事写思念"}],
+      "mood": {"energy": 3, "valence": 5, "themes": ["love", "loss"], "anchor_emotion": "失去后才慢慢承认想念"},
+      "tags": ["代表情歌", "金曲"]
+    },
+    {
+      "title": "兄弟",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 105,
+      "lyrics_excerpt": "兄弟 你的快乐就是我的快乐",
+      "segments": [{"type": "chorus", "summary": "为彼此而活的兄弟情"}],
+      "mood": {"energy": 7, "valence": 8, "themes": ["friendship", "celebration"], "anchor_emotion": "为兄弟两肋插刀的热血"},
+      "tags": ["Blues 吉他", "管乐"]
+    },
+    {
+      "title": "人生有限公司",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "G Major",
+      "bpm": 140,
+      "lyrics_excerpt": "人生有限公司",
+      "segments": [{"type": "chorus", "summary": "把人生比作公司的快节奏"}],
+      "mood": {"energy": 9, "valence": 7, "themes": ["growth", "dream-chasing"], "anchor_emotion": "人生有限就赶紧打拼"},
+      "tags": ["演唱会同名", "高能"]
+    },
+    {
+      "title": "后来的我们",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "G Major",
+      "bpm": 78,
+      "lyrics_excerpt": "后来的我们 依然走着",
+      "segments": [
+        {"type": "verse", "summary": "对一段关系结束后的注视"},
+        {"type": "chorus", "summary": "祝福对方的清醒告别"}
+      ],
+      "mood": {"energy": 4, "valence": 5, "themes": ["love", "loss", "growth"], "anchor_emotion": "曾经的我们没能成为后来的我们"},
+      "tags": ["代表作", "电影同名"]
+    },
+    {
+      "title": "顽固",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 76,
+      "lyrics_excerpt": "我顽固地走着 我从来不曾忘记你",
+      "segments": [{"type": "chorus", "summary": "向梦想顽固到底的宣告"}],
+      "mood": {"energy": 5, "valence": 7, "themes": ["dream-chasing", "growth"], "anchor_emotion": "对梦想的顽固坚持"},
+      "tags": ["十大单曲", "太空人 MV"]
+    },
+    {
+      "title": "派对动物",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 128,
+      "lyrics_excerpt": "我们都有觉悟 要疯狂到日出",
+      "segments": [{"type": "chorus", "summary": "把生老病死比作派对"}],
+      "mood": {"energy": 9, "valence": 8, "themes": ["celebration", "rebellion"], "anchor_emotion": "正面迎战生活的狂欢"},
+      "tags": ["主打", "电子"]
+    },
+    {
+      "title": "最好的一天",
+      "lyricist": "阿信",
+      "composer": "石头",
+      "key": "D Major",
+      "bpm": 90,
+      "lyrics_excerpt": "最好的一天 就是今天",
+      "segments": [{"type": "chorus", "summary": "把今天定义为最好的一天"}],
+      "mood": {"energy": 5, "valence": 8, "themes": ["growth", "celebration"], "anchor_emotion": "把当下视为最美好的笃定"},
+      "tags": ["温暖中速"]
+    },
+    {
+      "title": "少年他的奇幻漂流",
+      "lyricist": "阿信",
+      "composer": "石头",
+      "key": "G Major",
+      "bpm": 90,
+      "lyrics_excerpt": "我们该珍惜如何的现在",
+      "segments": [{"type": "chorus", "summary": "用奇幻漂流隐喻人生平行宇宙"}],
+      "mood": {"energy": 5, "valence": 6, "themes": ["growth", "dream-chasing"], "anchor_emotion": "把每个当下视作奇幻的瞬间"},
+      "tags": ["叙事", "金句"]
+    },
+    {
+      "title": "终于结束的起点",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 120,
+      "lyrics_excerpt": "终于结束的起点",
+      "segments": [{"type": "chorus", "summary": "把结束视作起点"}],
+      "mood": {"energy": 6, "valence": 6, "themes": ["growth"], "anchor_emotion": "终结即开始的成熟视角"},
+      "tags": ["演唱会曲"]
+    },
+    {
+      "title": "任意门",
+      "lyricist": "阿信",
+      "composer": "怪兽",
+      "key": "G Major",
+      "bpm": 96,
+      "lyrics_excerpt": "如果时光是一道任意门",
+      "segments": [{"type": "chorus", "summary": "穿梭记忆的任意门"}],
+      "mood": {"energy": 5, "valence": 6, "themes": ["nostalgia", "love"], "anchor_emotion": "想用任意门回到重要场景"},
+      "tags": ["代表作", "自传式"]
+    },
+    {
+      "title": "转眼",
+      "lyricist": "阿信",
+      "composer": "石头",
+      "key": "C Major",
+      "bpm": 60,
+      "lyrics_excerpt": "转眼 才能感到 永远",
+      "segments": [
+        {"type": "verse", "summary": "临终前回顾一生"},
+        {"type": "chorus", "summary": "以诗句般的句法写自传最终章"}
+      ],
+      "mood": {"energy": 2, "valence": 5, "themes": ["growth", "nostalgia"], "anchor_emotion": "转眼之间走完一生的辽阔"},
+      "tags": ["压轴", "MV 获奖"]
+    },
+    {
+      "title": "What's Your Story",
+      "lyricist": null,
+      "composer": null,
+      "key": null,
+      "bpm": null,
+      "lyrics_excerpt": "(空轨)",
+      "segments": [{"type": "interlude", "summary": "空白轨，留给听众写下自己的故事"}],
+      "mood": {"energy": 1, "valence": 6, "themes": ["growth"], "anchor_emotion": "把麦克风交给听者"},
+      "tags": ["空轨", "概念"]
+    },
+    {
+      "title": "你说那C和弦就是…",
+      "lyricist": "阿信/玛莎",
+      "composer": "玛莎",
+      "key": "C Major",
+      "bpm": 100,
+      "lyrics_excerpt": "你说那C和弦 就是想你的弦",
+      "segments": [{"type": "chorus", "summary": "用C和弦写最简单的歌"}],
+      "mood": {"energy": 5, "valence": 7, "themes": ["love", "friendship"], "anchor_emotion": "最简单的和弦写最朴素的心意"},
+      "tags": ["专辑彩蛋"]
+    }
+  ]
+}

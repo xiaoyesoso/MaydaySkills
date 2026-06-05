@@ -1,0 +1,208 @@
+[
+  {
+    "title": "倔强",
+    "album": "神的孩子都在跳舞",
+    "difficulty": 8,
+    "label": "困难",
+    "highest_note": "A4",
+    "bpm": 132,
+    "key_changes": 1,
+    "continuous_singing_seconds": 15,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🔴", "note": "副歌升 key 后最高音 A4"},
+      {"segment": "chorus", "type": "🎯", "note": "副歌升 key（A→B）"},
+      {"segment": "pre-chorus", "type": "💨", "note": "verse→chorus 间换气窗口仅 1 拍"}
+    ]
+  },
+  {
+    "title": "突然好想你",
+    "album": "后青春期的诗",
+    "difficulty": 7,
+    "label": "困难",
+    "highest_note": "G4",
+    "bpm": 70,
+    "key_changes": 0,
+    "continuous_singing_seconds": 20,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🔴", "note": "「突然好想你」连续高音区"},
+      {"segment": "bridge", "type": "🔴", "note": "bridge 情绪顶点持续高音"},
+      {"segment": "chorus", "type": "💨", "note": "副歌前换气点极短"}
+    ]
+  },
+  {
+    "title": "温柔",
+    "album": "爱情万岁",
+    "difficulty": 4,
+    "label": "进阶",
+    "highest_note": "E4",
+    "bpm": 72,
+    "key_changes": 0,
+    "continuous_singing_seconds": 8,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🟡", "note": "副歌真假音转换"},
+      {"segment": "verse", "type": "💨", "note": "每句末尾需深换气"}
+    ]
+  },
+  {
+    "title": "干杯",
+    "album": "第二人生",
+    "difficulty": 5,
+    "label": "进阶",
+    "highest_note": "F4",
+    "bpm": 78,
+    "key_changes": 0,
+    "continuous_singing_seconds": 10,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🔴", "note": "「会不会有一天」句尾上行"},
+      {"segment": "verse", "type": "💨", "note": "叙事段落长句需提前换气"}
+    ]
+  },
+  {
+    "title": "后来的我们",
+    "album": "自传",
+    "difficulty": 5,
+    "label": "进阶",
+    "highest_note": "F#4",
+    "bpm": 78,
+    "key_changes": 0,
+    "continuous_singing_seconds": 12,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🟡", "note": "副歌开头音程跳跃"},
+      {"segment": "verse", "type": "💨", "note": "主歌语气词多，需保持连贯"}
+    ]
+  },
+  {
+    "title": "我不愿让你一个人",
+    "album": "第二人生",
+    "difficulty": 4,
+    "label": "进阶",
+    "highest_note": "E4",
+    "bpm": 72,
+    "key_changes": 0,
+    "continuous_singing_seconds": 8,
+    "hard_parts": [
+      {"segment": "chorus", "type": "💨", "note": "副歌句末换气点"}
+    ]
+  },
+  {
+    "title": "派对动物",
+    "album": "自传",
+    "difficulty": 7,
+    "label": "困难",
+    "highest_note": "G4",
+    "bpm": 128,
+    "key_changes": 0,
+    "continuous_singing_seconds": 18,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🔴", "note": "高 BPM 下连续副歌高音"},
+      {"segment": "pre-chorus", "type": "💨", "note": "快节奏下换气窗口极短"}
+    ]
+  },
+  {
+    "title": "如烟",
+    "album": "后青春期的诗",
+    "difficulty": 9,
+    "label": "唯神能唱",
+    "highest_note": "A4",
+    "bpm": 72,
+    "key_changes": 0,
+    "continuous_singing_seconds": 25,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🔴", "note": "「原来过了一生」持续 A4"},
+      {"segment": "verse", "type": "💨", "note": "超长主歌无换气点"},
+      {"segment": "bridge", "type": "🔴", "note": "bridge 情绪顶点持续高音区"}
+    ]
+  },
+  {
+    "title": "憨人",
+    "album": "爱情万岁",
+    "difficulty": 3,
+    "label": "入门",
+    "highest_note": "D4",
+    "bpm": 88,
+    "key_changes": 0,
+    "continuous_singing_seconds": 6,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🟡", "note": "闽南语咬字需练习"}
+    ]
+  },
+  {
+    "title": "拥抱",
+    "album": "第一张创作专辑",
+    "difficulty": 2,
+    "label": "入门",
+    "highest_note": "C4",
+    "bpm": 78,
+    "key_changes": 0,
+    "continuous_singing_seconds": 5,
+    "hard_parts": []
+  },
+  {
+    "title": "笑忘歌",
+    "album": "后青春期的诗",
+    "difficulty": 4,
+    "label": "进阶",
+    "highest_note": "E4",
+    "bpm": 110,
+    "key_changes": 0,
+    "continuous_singing_seconds": 8,
+    "hard_parts": [
+      {"segment": "chorus", "type": "💨", "note": "副歌节奏稍快需提前换气"}
+    ]
+  },
+  {
+    "title": "诺亚方舟",
+    "album": "第二人生",
+    "difficulty": 7,
+    "label": "困难",
+    "highest_note": "G4",
+    "bpm": 120,
+    "key_changes": 0,
+    "continuous_singing_seconds": 16,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🔴", "note": "万人合唱段持续高音"},
+      {"segment": "verse", "type": "💨", "note": "叙事长句换气点少"}
+    ]
+  },
+  {
+    "title": "OAOA",
+    "album": "第二人生",
+    "difficulty": 8,
+    "label": "困难",
+    "highest_note": "A4",
+    "bpm": 150,
+    "key_changes": 0,
+    "continuous_singing_seconds": 14,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🔴", "note": "高 BPM + 高音双重压力"},
+      {"segment": "chorus", "type": "💨", "note": "OAOA 连续快唱几乎无法换气"}
+    ]
+  },
+  {
+    "title": "成名在望",
+    "album": "自传",
+    "difficulty": 6,
+    "label": "进阶",
+    "highest_note": "F#4",
+    "bpm": 80,
+    "key_changes": 1,
+    "continuous_singing_seconds": 12,
+    "hard_parts": [
+      {"segment": "bridge", "type": "🎯", "note": "bridge 升 key"},
+      {"segment": "chorus", "type": "🔴", "note": "副歌情绪顶点持续高音"}
+    ]
+  },
+  {
+    "title": "顽固",
+    "album": "自传",
+    "difficulty": 5,
+    "label": "进阶",
+    "highest_note": "F4",
+    "bpm": 76,
+    "key_changes": 0,
+    "continuous_singing_seconds": 10,
+    "hard_parts": [
+      {"segment": "chorus", "type": "🟡", "note": "副歌「我顽固地走着」音程上行"}
+    ]
+  }
+]
