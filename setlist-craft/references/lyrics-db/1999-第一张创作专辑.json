@@ -1,0 +1,230 @@
+{
+  "album": "第一张创作专辑",
+  "year": 1999,
+  "release_date": "1999-07-07",
+  "label": "滚石唱片",
+  "english_title": "Mayday's First Album",
+  "songs": [
+    {
+      "title": "疯狂世界",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 132,
+      "lyrics_excerpt": "如果我有一双翅膀 一双翅膀",
+      "segments": [
+        {"type": "verse", "summary": "对压抑现实的不甘", "anchor_line": "我跌跌撞撞奔向了远方"},
+        {"type": "chorus", "summary": "渴望飞翔的呐喊", "anchor_line": "如果我有一双翅膀"}
+      ],
+      "mood": {
+        "energy": 8,
+        "valence": 5,
+        "themes": ["dream-chasing", "rebellion", "growth"],
+        "anchor_emotion": "青春初期对世界的不服与渴望"
+      },
+      "tags": ["首专开篇", "校园摇滚", "代表作"]
+    },
+    {
+      "title": "拥抱",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 78,
+      "lyrics_excerpt": "脱下长日的伪装 为自己卸了妆",
+      "segments": [
+        {"type": "verse", "summary": "孤单的夜里渴望被理解"},
+        {"type": "chorus", "summary": "对一个温暖怀抱的告白", "anchor_line": "我想要爱你抱你保护你"}
+      ],
+      "mood": {
+        "energy": 4,
+        "valence": 6,
+        "themes": ["love", "growth"],
+        "anchor_emotion": "卸下伪装后的温柔渴望"
+      },
+      "tags": ["抒情慢歌", "经典情歌"]
+    },
+    {
+      "title": "透露",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 110,
+      "lyrics_excerpt": "把心情透露 让你不孤独",
+      "segments": [
+        {"type": "chorus", "summary": "互相倾诉的轻快邀请"}
+      ],
+      "mood": {
+        "energy": 6,
+        "valence": 7,
+        "themes": ["friendship", "love"],
+        "anchor_emotion": "想被听见也想倾听对方"
+      },
+      "tags": ["流行摇滚"]
+    },
+    {
+      "title": "生活",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 100,
+      "lyrics_excerpt": "又是残酷的美好一天",
+      "segments": [
+        {"type": "verse", "summary": "对日复一日的清醒注视"},
+        {"type": "chorus", "summary": "苦笑式的承认"}
+      ],
+      "mood": {
+        "energy": 5,
+        "valence": 4,
+        "themes": ["growth"],
+        "anchor_emotion": "对日常残酷的清醒接受"
+      },
+      "tags": ["金句", "成长"]
+    },
+    {
+      "title": "爱情的模样",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "F Major",
+      "bpm": 72,
+      "lyrics_excerpt": "原来这就是爱情的模样",
+      "segments": [
+        {"type": "verse", "summary": "回望一段关系的细节"},
+        {"type": "chorus", "summary": "对爱情真相的轻声叹息"}
+      ],
+      "mood": {
+        "energy": 3,
+        "valence": 4,
+        "themes": ["love", "loss"],
+        "anchor_emotion": "走过之后才认得爱的样子"
+      },
+      "tags": ["抒情慢歌"]
+    },
+    {
+      "title": "嘿!我要走了",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 145,
+      "lyrics_excerpt": "嘿 我要走了",
+      "segments": [
+        {"type": "chorus", "summary": "对离别的快意宣告"}
+      ],
+      "mood": {
+        "energy": 8,
+        "valence": 6,
+        "themes": ["rebellion", "growth"],
+        "anchor_emotion": "想留下又必须离开"
+      },
+      "tags": ["快歌"]
+    },
+    {
+      "title": "轧车",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 160,
+      "lyrics_excerpt": "轰隆隆隆隆隆 引擎在嘶吼",
+      "segments": [
+        {"type": "verse", "summary": "不被关心的少年用速度逃避"}
+      ],
+      "mood": {
+        "energy": 9,
+        "valence": 4,
+        "themes": ["rebellion"],
+        "anchor_emotion": "少年逃避现实的烈性"
+      },
+      "tags": ["闽南语", "高能"]
+    },
+    {
+      "title": "志明与春娇",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 96,
+      "lyrics_excerpt": "志明真正不知欲安怎",
+      "segments": [
+        {"type": "verse", "summary": "市井小情侣的爱恨小品"},
+        {"type": "chorus", "summary": "重复名字像歌谣一般"}
+      ],
+      "mood": {
+        "energy": 6,
+        "valence": 5,
+        "themes": ["love", "loss"],
+        "anchor_emotion": "市井气的爱情诗"
+      },
+      "tags": ["闽南语", "KTV金曲", "代表作"]
+    },
+    {
+      "title": "Hosee",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 150,
+      "lyrics_excerpt": "Ho-see Ho-see",
+      "segments": [
+        {"type": "chorus", "summary": "齐声呐喊式副歌"}
+      ],
+      "mood": {
+        "energy": 9,
+        "valence": 5,
+        "themes": ["rebellion"],
+        "anchor_emotion": "无路可走仍要呐喊"
+      },
+      "tags": ["闽南语", "演唱会"]
+    },
+    {
+      "title": "黑白讲",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 145,
+      "lyrics_excerpt": "黑白讲 黑白讲",
+      "segments": [
+        {"type": "chorus", "summary": "对世道的嘲讽"}
+      ],
+      "mood": {
+        "energy": 8,
+        "valence": 5,
+        "themes": ["rebellion"],
+        "anchor_emotion": "用快歌嘲讽世界的虚伪"
+      },
+      "tags": ["闽南语", "高能"]
+    },
+    {
+      "title": "I Love You 无望",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 88,
+      "lyrics_excerpt": "I love you 无望",
+      "segments": [
+        {"type": "chorus", "summary": "明知不可能仍然告白"}
+      ],
+      "mood": {
+        "energy": 4,
+        "valence": 3,
+        "themes": ["love", "loss"],
+        "anchor_emotion": "无望仍想说出口的爱"
+      },
+      "tags": ["闽南语", "暗恋"]
+    },
+    {
+      "title": "风若吹",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 70,
+      "lyrics_excerpt": "风若吹 阮的心 也会随风去",
+      "segments": [
+        {"type": "verse", "summary": "随风而散的乡愁式抒情"}
+      ],
+      "mood": {
+        "energy": 3,
+        "valence": 4,
+        "themes": ["nostalgia", "loss"],
+        "anchor_emotion": "心被风带走的轻轻怅惘"
+      },
+      "tags": ["闽南语", "抒情"]
+    }
+  ]
+}

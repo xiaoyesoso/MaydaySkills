@@ -1,0 +1,406 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-06-05",
+  "categories": {
+    "concert-slang": "演唱会术语",
+    "song-easter-egg": "歌曲彩蛋",
+    "band-nickname": "乐队昵称",
+    "timeline-event": "时代事件",
+    "meme": "Meme / 名梗",
+    "era-tag": "年代标签"
+  },
+  "terms": [
+    {
+      "id": "term-001",
+      "term": "升 key 战神",
+      "aliases": ["升key战神", "高音KO", "副歌战神"],
+      "category": "concert-slang",
+      "definition": "能在阿信副歌升 key 之后仍稳稳跟唱到底的五迷",
+      "origin": "源自《倔强》《突然好想你》后段副歌升 key 现象",
+      "examples": [
+        "她副歌完没破音，是升 key 战神",
+        "全场就他一个升 key 战神还在跟"
+      ],
+      "related": ["term-002", "term-005", "term-008"],
+      "tags": ["concert", "fan-culture", "vocal"]
+    },
+    {
+      "id": "term-002",
+      "term": "副歌升 key",
+      "aliases": ["升key", "B段升key"],
+      "category": "song-easter-egg",
+      "definition": "五月天很多歌曲会在副歌后段把调性提高半音或一个全音，用于现场情绪推高",
+      "origin": "阿信现场常做的即兴编曲处理，代表作：《倔强》《突然好想你》《温柔》",
+      "examples": [
+        "《温柔》B 段升 key 之后全场都疯了",
+        "升 key 段位：原 key → +1 → +2，半音为单位"
+      ],
+      "related": ["term-001", "term-008"],
+      "tags": ["concert", "live-arrangement"]
+    },
+    {
+      "id": "term-003",
+      "term": "OAOA",
+      "aliases": ["OAOA (现在就是永远)"],
+      "category": "song-easter-egg",
+      "definition": "2008 年专辑《后青春期的诗》收录歌曲，标题为日文「おはよう」(早安)的拟声符号化",
+      "origin": "取自日文「おはよう」(ohayou)的拟声化表达，意为「今天就是永远」",
+      "examples": [
+        "每天早上单曲循环 OAOA，元气满满",
+        "OAOA 现场版必唱，是出场的高能定场曲"
+      ],
+      "related": ["term-016"],
+      "tags": ["song", "uplifting", "must-play"]
+    },
+    {
+      "id": "term-004",
+      "term": "信哥",
+      "aliases": ["阿信", "陈信宏", "宏宏", "团长"],
+      "category": "band-nickname",
+      "definition": "五月天主唱陈信宏的昵称，因长期担任乐团团长 / 词曲创作核心",
+      "origin": "粉丝对其本名\"信宏\"的亲切称呼",
+      "examples": [
+        "信哥今天穿的 T 恤也太可爱",
+        "信哥写的词比我想像的更温柔"
+      ],
+      "related": ["term-009", "term-010", "term-011", "term-012"],
+      "tags": ["member", "vocalist"]
+    },
+    {
+      "id": "term-005",
+      "term": "温团",
+      "aliases": ["怪兽", "团长(老)"],
+      "category": "band-nickname",
+      "definition": "吉他手温尚翊的昵称，因名为\"温\"且曾任团长",
+      "origin": "本名温尚翊，与阿信(陈信宏)的\"信哥\"形成对应梗",
+      "examples": [
+        "温团的吉他 solo 真的太稳了",
+        "怪兽不凶啊，叫他温团才对"
+      ],
+      "related": ["term-004"],
+      "tags": ["member", "guitarist"]
+    },
+    {
+      "id": "term-006",
+      "term": "石老师",
+      "aliases": ["石头", "石頭"],
+      "category": "band-nickname",
+      "definition": "吉他手石头的昵称，因稳重 / 暖男气质",
+      "origin": "本名石锦航，\"老师\"是粉丝对其温文尔雅气质的拟人化",
+      "examples": [
+        "石老师又在后采里金句频出",
+        "石头 + 玛莎 = 经典互动组合"
+      ],
+      "related": ["term-007", "term-011"],
+      "tags": ["member", "guitarist"]
+    },
+    {
+      "id": "term-007",
+      "term": "玛大学",
+      "aliases": ["玛莎", "玛大"],
+      "category": "band-nickname",
+      "definition": "贝斯手蔡升晏的昵称，因学历高(台湾大学)且读书多",
+      "origin": "本名蔡升晏，毕业于台湾大学 + 学历梗的结合",
+      "examples": [
+        "玛大学又开始掉书袋了",
+        "玛莎讲话永远慢条斯理"
+      ],
+      "related": ["term-006", "term-011"],
+      "tags": ["member", "bassist", "academic"]
+    },
+    {
+      "id": "term-008",
+      "term": "佑哥",
+      "aliases": ["冠佑", "鼓手冠佑"],
+      "category": "band-nickname",
+      "definition": "鼓手刘谚明的昵称，因家中排行 + 性格稳重",
+      "origin": "本名刘谚明，\"佑哥\"是早期五人时期延续下来的称呼",
+      "examples": [
+        "佑哥的鼓点永远是节拍器",
+        "冠佑在 mv 里永远是最抢镜的那个"
+      ],
+      "related": ["term-004", "term-005", "term-006", "term-007"],
+      "tags": ["member", "drummer"]
+    },
+    {
+      "id": "term-009",
+      "term": "T1213121",
+      "aliases": ["T1213121 暗号"],
+      "category": "song-easter-egg",
+      "definition": "五月天粉丝间的暗号，源自歌曲《拥抱》结尾的彩蛋数字串，完整含义是\"一起走一路的约定\"",
+      "origin": "2016 年《自传》发行时被官方解读的数字串彩蛋",
+      "examples": [
+        "看到 T1213121 你就懂是五迷",
+        "演唱会现场喊 T1213121 会心一笑"
+      ],
+      "related": ["term-003", "term-016"],
+      "tags": ["easter-egg", "fan-code"]
+    },
+    {
+      "id": "term-010",
+      "term": "安可拳头",
+      "aliases": ["安可", "ENCORE"],
+      "category": "concert-slang",
+      "definition": "演唱会尾声，全场观众同步举起拳头、跺脚并齐喊\"安可\"，要求歌手返场",
+      "origin": "五月天演唱会固定传统，已成行业标准",
+      "examples": [
+        "安可拳头举了 5 分钟才出来",
+        "返场 3 次都不够，五月天安可就是长"
+      ],
+      "related": ["term-014"],
+      "tags": ["concert", "tradition", "encore"]
+    },
+    {
+      "id": "term-011",
+      "term": "灯海蓝",
+      "aliases": ["蓝海", "蓝色灯海"],
+      "category": "concert-slang",
+      "definition": "五月天演唱会现场全员手机灯 / 荧光棒调成蓝色形成的视觉海洋",
+      "origin": "2010 年代开始流行的演唱会应援视觉，对应曲《温柔》《突然好想你》等抒情段",
+      "examples": [
+        "《温柔》前奏一响，全场灯海蓝",
+        "蓝色海洋，感动到哭"
+      ],
+      "related": ["term-013"],
+      "tags": ["concert", "visual", "slow-song"]
+    },
+    {
+      "id": "term-012",
+      "term": "纸飞机",
+      "aliases": ["后青春期的诗纸飞机"],
+      "category": "concert-slang",
+      "definition": "五月天《后青春期的诗》现场必玩环节：观众把纸飞机往舞台上扔",
+      "origin": "2008 年同名专辑发行后延续至今的演唱会传统",
+      "examples": [
+        "唱《后青春期的诗》时全场扔纸飞机",
+        "信哥会被纸飞机砸到——这是传统!"
+      ],
+      "related": ["term-003", "term-013"],
+      "tags": ["concert", "tradition", "song-specific"]
+    },
+    {
+      "id": "term-013",
+      "term": "点歌",
+      "aliases": ["CALL OUT", "点歌环节"],
+      "category": "concert-slang",
+      "definition": "五月天演唱会固定环节：随机抽现场观众点歌，五月天现场演唱",
+      "origin": "DNA 创造世界巡回(2017)开始成为固定环节",
+      "examples": [
+        "我点到了《终结孤单》，圆梦了",
+        "点歌环节是五月天演唱会的彩蛋"
+      ],
+      "related": ["term-010", "term-014"],
+      "tags": ["concert", "interactive", "tradition"]
+    },
+    {
+      "id": "term-014",
+      "term": "鸟巢",
+      "aliases": ["北京鸟巢", "国家体育场"],
+      "category": "timeline-event",
+      "definition": "2012 年五月天在国家体育场(鸟巢)开唱，成为第一组在鸟巢开唱的华语乐团",
+      "origin": "诺亚方舟世界巡回 2012 北京站，10 万人规模",
+      "examples": [
+        "鸟巢十万人大合唱是华语音乐的高光",
+        "能去鸟巢听一次五月天是人生清单"
+      ],
+      "related": ["term-018", "term-020"],
+      "tags": ["milestone", "venue", "china"]
+    },
+    {
+      "id": "term-015",
+      "term": "168 场",
+      "aliases": ["人生无限公司 168"],
+      "category": "timeline-event",
+      "definition": "2017-2019 年\"人生无限公司\"巡回演唱会共演出 168 场，创下华语乐团巡演场次纪录",
+      "origin": "2017-04 至 2019-01 的世界巡回",
+      "examples": [
+        "168 场，每一场都是限定",
+        "人生无限公司是五月天最长的巡演"
+      ],
+      "related": ["term-018"],
+      "tags": ["milestone", "tour", "record"]
+    },
+    {
+      "id": "term-016",
+      "term": "平凡很伟大",
+      "aliases": ["人生海海"],
+      "category": "meme",
+      "definition": "出自《人生海海》歌词的 Meme 化短句，表达普通生活的伟大",
+      "origin": "2001 年专辑《人生海海》同名曲",
+      "examples": [
+        "平凡很伟大——发朋友圈了",
+        "普通人的一天，也值得被记住"
+      ],
+      "related": ["term-021"],
+      "tags": ["lyric-quote", "philosophy"]
+    },
+    {
+      "id": "term-017",
+      "term": "为爱而生",
+      "aliases": ["为爱而生专辑"],
+      "category": "meme",
+      "definition": "2006 年专辑名，\"为爱而生\"成为五迷表达追星/友情/爱情的名言梗",
+      "origin": "2006 年同名专辑，主打歌《为爱而生》",
+      "examples": [
+        "为爱而生，所以选择五月天",
+        "为爱而生——写在明信片上的高频句"
+      ],
+      "related": ["term-022"],
+      "tags": ["lyric-quote", "album-title"]
+    },
+    {
+      "id": "term-018",
+      "term": "复出之夜",
+      "aliases": ["诺亚方舟"],
+      "category": "timeline-event",
+      "definition": "2012 年诺亚方舟世界巡回的代称，被粉丝视为\"末日之后的新生\"",
+      "origin": "2012 末日预言 + 诺亚方舟世界巡回的暗合",
+      "examples": [
+        "诺亚方舟是五月天的神话叙事",
+        "2012 末日没来，但五月天在鸟巢开唱了"
+      ],
+      "related": ["term-014", "term-015"],
+      "tags": ["tour", "narrative", "milestone"]
+    },
+    {
+      "id": "term-019",
+      "term": "我们都有觉悟要疯狂到日出",
+      "aliases": ["疯狂世界"],
+      "category": "meme",
+      "definition": "出自《疯狂世界》歌词，五迷间的\"疯五\"暗号",
+      "origin": "1999 年首张创作专辑《五月天第一张创作专辑》收录曲",
+      "examples": [
+        "通宵加班时想起这歌词，瞬间充电",
+        "我们都有觉悟——这是疯五的自我认同"
+      ],
+      "related": ["term-022"],
+      "tags": ["lyric-quote", "first-album"]
+    },
+    {
+      "id": "term-020",
+      "term": "人无 4 周年",
+      "aliases": ["人生海海 4 周年"],
+      "category": "timeline-event",
+      "definition": "2001 年《人生海海》发行 4 周年(2005)前后，五月天因兵役问题暂别舞台，五迷以\"人无 4\" 暗喻\"人生海海 4 缺\"",
+      "origin": "2001-2005 兵役分散期，粉丝的暗号",
+      "examples": [
+        "人无 4 年，是五迷最难熬的时期",
+        "等他们回来——那是 2005 之后的事"
+      ],
+      "related": ["term-021"],
+      "tags": ["milestone", "fan-memory", "sensitive"]
+    },
+    {
+      "id": "term-021",
+      "term": "人生海海",
+      "aliases": ["人生海海 (闽南语)"],
+      "category": "song-easter-egg",
+      "definition": "闽南语\"人生海海\"意为\"人生像海一样广阔多变\"，被五迷引用为人生哲学",
+      "origin": "2001 年专辑名 + 同名曲",
+      "examples": [
+        "人生海海，遇到五月天是我的福气",
+        "人生海海，何必计较一时"
+      ],
+      "related": ["term-016"],
+      "tags": ["lyric-quote", "philosophy", "dialect"]
+    },
+    {
+      "id": "term-022",
+      "term": "转眼",
+      "aliases": ["转眼 MV", "自传"],
+      "category": "song-easter-egg",
+      "definition": "2016 年专辑《自传》收录曲，MV 以\"时间循环 + 自我对话\"为核心意象，结尾的递归镜头被粉丝反复解读",
+      "origin": "2016 年《自传》专辑第九轨",
+      "examples": [
+        "转眼 MV 那个递归镜头我看了 100 遍",
+        "转眼是《自传》的灵魂曲"
+      ],
+      "related": ["term-009", "term-021"],
+      "tags": ["music-video", "narrative", "self-bio"]
+    },
+    {
+      "id": "term-023",
+      "term": "五月天 25 周年",
+      "aliases": ["Mayday 25th", "25 周年"],
+      "category": "timeline-event",
+      "definition": "2022 年五月天成军 25 周年，举办《回到地球表面》线上演唱会，并开启\"好好好想见到你\"高雄/桃园/北京/新加坡巡演",
+      "origin": "1997 年成军，2022 年 25 周年纪念",
+      "examples": [
+        "25 周年线上演唱会是疫情中的精神食粮",
+        "好好好想见到你巡演是 25 周年的延续"
+      ],
+      "related": ["term-015", "term-018"],
+      "tags": ["milestone", "anniversary", "concert"]
+    },
+    {
+      "id": "term-024",
+      "term": "相信音乐",
+      "aliases": ["B'in", "相信音乐时期"],
+      "category": "era-tag",
+      "definition": "五月天成员于 2006 年共同创办的独立音乐厂牌，标志五月天从\"滚石时期\"进入\"独立厂牌时期\"",
+      "origin": "2006 年成立，发行《为爱而生》后开始独立运营",
+      "examples": [
+        "相信音乐时期 = 五月天做自己的主人",
+        "从滚石到相信，是创作自由的过渡"
+      ],
+      "related": ["term-025"],
+      "tags": ["label", "era", "indie"]
+    },
+    {
+      "id": "term-025",
+      "term": "滚石时期",
+      "aliases": ["滚石唱片", "Rock Records"],
+      "category": "era-tag",
+      "definition": "1999-2005 年五月天签约滚石唱片时期，发行前 3 张专辑",
+      "origin": "1999 年第一张创作专辑 + 滚石唱片签约",
+      "examples": [
+        "滚石时期是五月天的初创期",
+        "从滚石到相信，是创作自由的过渡"
+      ],
+      "related": ["term-024"],
+      "tags": ["label", "era"]
+    },
+    {
+      "id": "term-026",
+      "term": "五人合体期",
+      "aliases": ["五人时期"],
+      "category": "era-tag",
+      "definition": "2010 年代以后五月天五位成员持续合体的时期，区别于 2001-2005 的兵役分散期",
+      "origin": "2005 年兵役结束全员回归",
+      "examples": [
+        "五人合体期是巡演高密度的年代",
+        "兵役结束后，五人合体期开始"
+      ],
+      "related": ["term-020"],
+      "tags": ["era", "lineup"]
+    },
+    {
+      "id": "term-027",
+      "term": "阿姆斯壮",
+      "aliases": ["阿姆", "登月梗"],
+      "category": "meme",
+      "definition": "出自《倔强》副歌段尾\"我不怕千万人阻挡 只怕自己投降\"的现场版本中，信哥会喊\"阿姆斯壮\"作为互动口号",
+      "origin": "诺亚方舟巡演起，《倔强》现场必喊的应援口号",
+      "examples": [
+        "《倔强》前奏一响，全场预备——阿姆斯壮!",
+        "登月梗，源自诺亚方舟主题"
+      ],
+      "related": ["term-001", "term-014"],
+      "tags": ["concert", "chant", "tradition"]
+    },
+    {
+      "id": "term-028",
+      "term": "倔强",
+      "aliases": ["《倔强》", "倔强升 key"],
+      "category": "song-easter-egg",
+      "definition": "2004 年专辑《神的孩子都在跳舞》收录曲，副歌升 key + 现场应援口号是其标志",
+      "origin": "2004 年神的孩子都在跳舞专辑",
+      "examples": [
+        "《倔强》+ 阿姆斯壮 = 演唱会固定节目",
+        "副歌升 key 段是升 key 战神的考试卷"
+      ],
+      "related": ["term-001", "term-002", "term-027"],
+      "tags": ["song", "live-classic"]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "album": "爱情万岁",
+  "year": 2000,
+  "release_date": "2000-07-07",
+  "label": "滚石唱片",
+  "english_title": "Viva Love",
+  "songs": [
+    {
+      "title": "为什么 (今日的爱情)",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 130,
+      "lyrics_excerpt": "为什么 为什么",
+      "segments": [{"type": "intro", "summary": "短促的提问式开场"}],
+      "mood": {"energy": 7, "valence": 5, "themes": ["love", "growth"], "anchor_emotion": "对当代爱情的发问"},
+      "tags": ["闽南语", "开场曲"]
+    },
+    {
+      "title": "终结孤单",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 140,
+      "lyrics_excerpt": "终结孤单 我对你的爱不会变",
+      "segments": [
+        {"type": "verse", "summary": "对孤单已久的诉说"},
+        {"type": "chorus", "summary": "呼唤终结孤单的承诺", "anchor_line": "终结孤单"}
+      ],
+      "mood": {"energy": 8, "valence": 8, "themes": ["love", "celebration"], "anchor_emotion": "用爱终结长久孤单的爆发"},
+      "tags": ["快歌", "演唱会", "代表作"]
+    },
+    {
+      "title": "明白",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "F Major",
+      "bpm": 76,
+      "lyrics_excerpt": "我终于明白 失去你的存在",
+      "segments": [{"type": "chorus", "summary": "失去后的恍然大悟", "anchor_line": "我终于明白"}],
+      "mood": {"energy": 3, "valence": 3, "themes": ["loss", "love"], "anchor_emotion": "失去后才看清的明白"},
+      "tags": ["抒情慢歌"]
+    },
+    {
+      "title": "心中无别人",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 120,
+      "lyrics_excerpt": "心中无别人 只有你",
+      "segments": [{"type": "chorus", "summary": "直接的告白"}],
+      "mood": {"energy": 7, "valence": 7, "themes": ["love"], "anchor_emotion": "只属于一个人的笃定"},
+      "tags": ["闽南语", "可大合唱"]
+    },
+    {
+      "title": "有你的将来",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 70,
+      "lyrics_excerpt": "有你的将来 阮才有未来",
+      "segments": [{"type": "chorus", "summary": "向爱人承诺共同未来"}],
+      "mood": {"energy": 3, "valence": 6, "themes": ["love", "growth"], "anchor_emotion": "对长久陪伴的温柔许诺"},
+      "tags": ["闽南语", "抒情"]
+    },
+    {
+      "title": "憨人",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "G Major",
+      "bpm": 88,
+      "lyrics_excerpt": "我是一个憨人 我的人生甘苦 只有自己人才知",
+      "segments": [
+        {"type": "verse", "summary": "甘做憨人的自白"},
+        {"type": "chorus", "summary": "认命也认份的歌咏", "anchor_line": "我是一个憨人"}
+      ],
+      "mood": {"energy": 5, "valence": 5, "themes": ["growth", "friendship"], "anchor_emotion": "甘做憨人的笃实"},
+      "tags": ["闽南语", "代表作", "演唱会大合唱"]
+    },
+    {
+      "title": "叫我第一名",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "E Major",
+      "bpm": 165,
+      "lyrics_excerpt": "叫我第一名",
+      "segments": [{"type": "chorus", "summary": "学生气十足的自封冠军"}],
+      "mood": {"energy": 9, "valence": 8, "themes": ["celebration", "rebellion"], "anchor_emotion": "少年气的张扬"},
+      "tags": ["闽南语", "高能"]
+    },
+    {
+      "title": "雨眠",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 72,
+      "lyrics_excerpt": "雨声陪我入眠",
+      "segments": [{"type": "verse", "summary": "雨夜独眠的安静"}],
+      "mood": {"energy": 2, "valence": 4, "themes": ["nostalgia", "loss"], "anchor_emotion": "雨声里独自入睡的安静"},
+      "tags": ["抒情慢歌"]
+    },
+    {
+      "title": "罗密欧与朱丽叶",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "B Major",
+      "bpm": 130,
+      "lyrics_excerpt": "如果我是罗密欧 你就是我的朱丽叶",
+      "segments": [{"type": "chorus", "summary": "借经典爱情角色比喻自己"}],
+      "mood": {"energy": 7, "valence": 7, "themes": ["love"], "anchor_emotion": "用悲剧爱情象征极致告白"},
+      "tags": ["快歌"]
+    },
+    {
+      "title": "温柔",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "C Major",
+      "bpm": 72,
+      "lyrics_excerpt": "走在风中 今天阳光 突然好温柔",
+      "segments": [
+        {"type": "verse", "summary": "放手时的轻轻祝福"},
+        {"type": "chorus", "summary": "把你交还给自由", "anchor_line": "我想我会一直孤单"},
+        {"type": "bridge", "summary": "温柔的告别"}
+      ],
+      "mood": {"energy": 3, "valence": 5, "themes": ["love", "loss"], "anchor_emotion": "放手是最温柔的爱"},
+      "tags": ["代表作", "金句", "演唱会大合唱"]
+    },
+    {
+      "title": "爱情万岁",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "A Major",
+      "bpm": 90,
+      "lyrics_excerpt": "爱情万岁",
+      "segments": [
+        {"type": "verse", "summary": "千禧年世纪末的爱情写实"},
+        {"type": "chorus", "summary": "对爱仍然举杯的高呼", "anchor_line": "爱情万岁"}
+      ],
+      "mood": {"energy": 6, "valence": 6, "themes": ["love", "celebration"], "anchor_emotion": "在浮躁时代仍要相信爱"},
+      "tags": ["同名曲"]
+    },
+    {
+      "title": "反而",
+      "lyricist": "阿信",
+      "composer": "阿信",
+      "key": "D Major",
+      "bpm": 100,
+      "lyrics_excerpt": "反而 爱得越深 越是模糊",
+      "segments": [{"type": "chorus", "summary": "对爱情悖论的省思"}],
+      "mood": {"energy": 5, "valence": 4, "themes": ["love", "growth"], "anchor_emotion": "越靠近反而越模糊"},
+      "tags": ["压轴长曲"]
+    }
+  ]
+}

@@ -14,6 +14,8 @@ TARGETS=(
   "$ROOT/mayday-radio/references/lyrics-db"
   "$ROOT/mayday-karaoke/references/lyrics-db"
   "$ROOT/mayday-fanfic/references/lyrics-db"
+  "$ROOT/setlist-craft/references/lyrics-db"
+  "$ROOT/mayday-dictionary/references/lyrics-db"
 )
 
 if [[ ! -d "$SRC" ]]; then
